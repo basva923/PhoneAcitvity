@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">PhoneActivity</string>
+
+    <string id="prompt">Open App on phone</string>
+
+    <string id="start">Start</string>
+    <string id="stop">Stop</string>
+    <string id="resume">Resume</string>
+    <string id="pause">Pause</string>
+</strings>
