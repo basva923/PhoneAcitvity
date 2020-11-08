@@ -25,6 +25,13 @@ To show your activity on your phone:
 5. Copy the .prg file into 'GARMIN/Apps/'.
 6. The app should now be installed on the Garmin device.
 
+## Some screenshots
+The main screen with the gps status and some info. The number of successfull messages will be shown ones the activity is started.
+<img alt="" src="screenshots/main_screen.png" width="200px">
+
+The start/stop button can be used to start/stop/pauze/resume/delete the activity. The following menu is shown when the activity is shown:
+<img alt="" src="screenshots/pauzed.png" width="200px">
+
 ## Build
 This application can be build with Monkey C. For instructions, have a look at the [Garmin Documentation](https://developer.garmin.com/connect-iq/reference-guides/jungle-reference/).
 
