@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="3" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="3" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="3" lineNum="13" pc="268435478" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="3" lineNum="20" pc="268435615" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="3" lineNum="28" pc="268435771" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="3" lineNum="29" pc="268435796" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="4" lineNum="33" pc="268435823" symbol="onLayout"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="4" lineNum="34" pc="268435827" symbol="onLayout"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="5" lineNum="40" pc="268435865" symbol="onShow"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="6" lineNum="44" pc="268435870" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="6" lineNum="46" pc="268435874" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="6" lineNum="47" pc="268435894" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="6" lineNum="49" pc="268435906" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="6" lineNum="50" pc="268435926" symbol="onUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="7" lineNum="56" pc="268435947" symbol="onHide"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="8" lineNum="59" pc="268435952" symbol="onNewMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="8" lineNum="60" pc="268435956" symbol="onNewMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="8" lineNum="61" pc="268435976" symbol="onNewMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="64" pc="268435993" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="65" pc="268435997" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="67" pc="268436152" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="68" pc="268436175" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="70" pc="268436178" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="71" pc="268436201" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="73" pc="268436204" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="74" pc="268436227" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="76" pc="268436230" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="77" pc="268436253" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="79" pc="268436256" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="80" pc="268436279" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityView.mc" id="9" lineNum="82" pc="268436282" symbol="onNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="11" lineNum="5" pc="268436299" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="11" lineNum="6" pc="268436303" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="9" pc="268436322" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="11" pc="268436326" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="12" pc="268436383" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="13" pc="268436402" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="22" pc="268436479" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="15" pc="268436485" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="16" pc="268436497" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="18" pc="268436500" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="19" pc="268436512" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="20" pc="268436530" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="12" lineNum="25" pc="268436539" symbol="onKey"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="14" lineNum="34" pc="268436543" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="14" lineNum="35" pc="268436547" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="15" lineNum="38" pc="268436566" symbol="onSelect"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="15" lineNum="39" pc="268436570" symbol="onSelect"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="15" lineNum="40" pc="268436589" symbol="onSelect"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="15" lineNum="41" pc="268436617" symbol="onSelect"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="15" lineNum="42" pc="268436632" symbol="onSelect"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="15" lineNum="43" pc="268436660" symbol="onSelect"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="15" lineNum="44" pc="268436675" symbol="onSelect"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="15" lineNum="45" pc="268436703" symbol="onSelect"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="15" lineNum="47" pc="268436718" symbol="onSelect"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="15" lineNum="49" pc="268436730" symbol="onSelect"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="16" lineNum="52" pc="268436759" symbol="setupMenu"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="16" lineNum="53" pc="268436763" symbol="setupMenu"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="16" lineNum="56" pc="268436810" symbol="setupMenu"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="16" lineNum="66" pc="268436860" symbol="setupMenu"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="16" lineNum="75" pc="268436910" symbol="setupMenu"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="16" lineNum="84" pc="268436960" symbol="setupMenu"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/InputHandler.mc" id="16" lineNum="86" pc="268436984" symbol="setupMenu"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="20" lineNum="25" pc="268437017" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="20" lineNum="26" pc="268437021" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="20" lineNum="30" pc="268437043" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="20" lineNum="31" pc="268437091" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="21" lineNum="35" pc="268437204" symbol="getInstance"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="21" lineNum="36" pc="268437208" symbol="getInstance"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="21" lineNum="37" pc="268437221" symbol="getInstance"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="21" lineNum="40" pc="268437254" symbol="getInstance"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="22" lineNum="43" pc="268437264" symbol="onPosition"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="22" lineNum="44" pc="268437268" symbol="onPosition"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="23" lineNum="47" pc="268437289" symbol="onPhoneMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="23" lineNum="48" pc="268437293" symbol="onPhoneMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="23" lineNum="49" pc="268437319" symbol="onPhoneMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="23" lineNum="50" pc="268437342" symbol="onPhoneMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="23" lineNum="51" pc="268437357" symbol="onPhoneMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="23" lineNum="52" pc="268437380" symbol="onPhoneMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="23" lineNum="53" pc="268437395" symbol="onPhoneMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="23" lineNum="54" pc="268437418" symbol="onPhoneMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="23" lineNum="55" pc="268437433" symbol="onPhoneMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="23" lineNum="56" pc="268437456" symbol="onPhoneMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="24" lineNum="60" pc="268437472" symbol="sendLocationUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="24" lineNum="61" pc="268437476" symbol="sendLocationUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="24" lineNum="63" pc="268437476" symbol="sendLocationUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="24" lineNum="65" pc="268437493" symbol="sendLocationUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="24" lineNum="66" pc="268437554" symbol="sendLocationUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="24" lineNum="67" pc="268437571" symbol="sendLocationUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="24" lineNum="70" pc="268437575" symbol="sendLocationUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="24" lineNum="72" pc="268437594" symbol="sendLocationUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="24" lineNum="86" pc="268437777" symbol="sendLocationUpdate"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="25" lineNum="90" pc="268437807" symbol="sendToPhone"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="25" lineNum="92" pc="268437811" symbol="sendToPhone"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="26" lineNum="95" pc="268437838" symbol="start"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="26" lineNum="96" pc="268437842" symbol="start"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="26" lineNum="100" pc="268437904" symbol="start"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="26" lineNum="101" pc="268437922" symbol="start"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="26" lineNum="103" pc="268437938" symbol="start"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="26" lineNum="104" pc="268437972" symbol="start"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="26" lineNum="105" pc="268438013" symbol="start"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="27" lineNum="108" pc="268438031" symbol="pauze"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="27" lineNum="109" pc="268438035" symbol="pauze"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="27" lineNum="111" pc="268438051" symbol="pauze"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="27" lineNum="112" pc="268438069" symbol="pauze"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="27" lineNum="114" pc="268438087" symbol="pauze"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="28" lineNum="117" pc="268438105" symbol="resume"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="28" lineNum="118" pc="268438109" symbol="resume"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="28" lineNum="120" pc="268438125" symbol="resume"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="28" lineNum="121" pc="268438142" symbol="resume"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="28" lineNum="123" pc="268438160" symbol="resume"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="28" lineNum="124" pc="268438194" symbol="resume"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="29" lineNum="127" pc="268438236" symbol="stop"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="29" lineNum="128" pc="268438240" symbol="stop"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="29" lineNum="130" pc="268438256" symbol="stop"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="29" lineNum="132" pc="268438274" symbol="stop"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="29" lineNum="133" pc="268438292" symbol="stop"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="30" lineNum="136" pc="268438310" symbol="remove"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="30" lineNum="137" pc="268438314" symbol="remove"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="30" lineNum="139" pc="268438330" symbol="remove"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="30" lineNum="140" pc="268438348" symbol="remove"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="31" lineNum="144" pc="268438366" symbol="onError"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="31" lineNum="145" pc="268438370" symbol="onError"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="32" lineNum="149" pc="268438388" symbol="onComplete"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="32" lineNum="150" pc="268438392" symbol="onComplete"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="32" lineNum="151" pc="268438411" symbol="onComplete"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="33" lineNum="154" pc="268438441" symbol="notifyMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="33" lineNum="155" pc="268438445" symbol="notifyMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="33" lineNum="156" pc="268438475" symbol="notifyMessage"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="34" lineNum="160" pc="268438512" symbol="notifyNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="34" lineNum="161" pc="268438516" symbol="notifyNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="34" lineNum="162" pc="268438546" symbol="notifyNewGPSStatus"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="35" lineNum="166" pc="268438583" symbol="getState"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneCommunicator.mc" id="35" lineNum="167" pc="268438587" symbol="getState"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityApp.mc" id="37" lineNum="6" pc="268438597" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityApp.mc" id="37" lineNum="7" pc="268438601" symbol="initialize"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityApp.mc" id="38" lineNum="11" pc="268438620" symbol="onStart"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityApp.mc" id="39" lineNum="15" pc="268438625" symbol="onStop"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityApp.mc" id="40" lineNum="19" pc="268438630" symbol="getInitialView"/>
+<entry filename="/home/developer/eclipse-workspace/PhoneActivity/source/PhoneActivityApp.mc" id="40" lineNum="20" pc="268438634" symbol="getInitialView"/>
+<entry filename="Rez" id="46" lineNum="15" pc="268438702" symbol="MainLayout"/>
+<entry filename="Rez" id="49" lineNum="26" pc="268438715" symbol="initialize"/>
+<entry filename="Rez" id="49" lineNum="27" pc="268438719" symbol="initialize"/>
+<entry filename="Rez" id="49" lineNum="28" pc="268438737" symbol="initialize"/>
+<entry filename="Rez" id="49" lineNum="29" pc="268438793" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="8388698" method="true" symbol="start"/>
+<entry field="true" id="17" symbol="RUNNING"/>
+<entry id="8388791" method="true" symbol="remove"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry field="true" id="29" method="true" symbol="resume"/>
+<entry field="true" id="32" symbol="thisObject"/>
+<entry field="true" id="8389642" symbol="title"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="28" method="true" symbol="pauze"/>
+<entry id="36" object="true" symbol="MainMenu"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="19" symbol="STOPPED"/>
+<entry field="true" id="39" symbol="pause"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="37" method="true" symbol="MainLayout"/>
+<entry field="true" id="18" symbol="PAUZED"/>
+<entry id="25" method="true" symbol="onPhoneMessage"/>
+<entry id="27" method="true" symbol="sendToPhone"/>
+<entry field="true" id="42" symbol="phoneCommunicator"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388638" module="true" symbol="ActivityRecording"/>
+<entry field="true" id="20" symbol="timer"/>
+<entry field="true" id="23" symbol="listeners"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="40" symbol="AppName"/>
+<entry id="41" method="true" symbol="setupMenu"/>
+<entry id="30" method="true" symbol="notifyMessage"/>
+<entry id="8389902" method="true" symbol="getState"/>
+<entry field="true" id="44" symbol="gpsStatus"/>
+<entry id="11" object="true" symbol="PhoneActivityView"/>
+<entry id="8388890" symbol="sport"/>
+<entry id="46" method="true" symbol="onNewGPSStatus"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry id="45" method="true" symbol="onNewMessage"/>
+<entry field="true" id="35" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388829" method="true" symbol="onComplete"/>
+<entry id="15" object="true" symbol="PhoneActivityApp"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="12" object="true" symbol="InputHandler"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="43" symbol="status"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8389889" method="true" symbol="getInstance"/>
+<entry field="true" id="21" symbol="session"/>
+<entry id="14" object="true" symbol="PhoneCommunicator"/>
+<entry id="26" method="true" symbol="sendLocationUpdate"/>
+<entry id="24" method="true" symbol="onPosition"/>
+<entry id="33" module="true" symbol="Layouts"/>
+<entry field="true" id="38" symbol="prompt"/>
+<entry id="31" method="true" symbol="notifyNewGPSStatus"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="13" object="true" symbol="StartStopMenu"/>
+<entry id="8388828" method="true" symbol="onError"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry id="34" module="true" symbol="Menus"/>
+<entry field="true" id="16" symbol="BEFORE_START"/>
+<entry field="true" id="8388699" method="true" symbol="stop"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="8389487" symbol="state"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="22" symbol="succes"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435865" name="dc" stackId="1" startPc="268435823"/>
+<entry endPc="268435947" name="dc" stackId="1" startPc="268435870"/>
+<entry endPc="268435993" name="msg" stackId="1" startPc="268435952"/>
+<entry endPc="268436299" name="status" stackId="1" startPc="268435993"/>
+<entry endPc="268436536" name="activity" stackId="2" startPc="268436383"/>
+<entry endPc="268436543" name="evt" stackId="1" startPc="268436322"/>
+<entry endPc="268436758" name="activity" stackId="2" startPc="268436570"/>
+<entry endPc="268436759" name="item" stackId="1" startPc="268436566"/>
+<entry endPc="268437016" name="startStopMenu" stackId="2" startPc="268436763"/>
+<entry endPc="268437016" name="menu" stackId="1" startPc="268436763"/>
+<entry endPc="268437289" name="info" stackId="1" startPc="268437264"/>
+<entry endPc="268437472" name="msg" stackId="1" startPc="268437289"/>
+<entry endPc="268437767" name="location" stackId="2" startPc="268437476"/>
+<entry endPc="268437767" name="info" stackId="1" startPc="268437476"/>
+<entry endPc="268437838" name="msg" stackId="1" startPc="268437807"/>
+<entry endPc="268438511" name="i" stackId="2" startPc="268438475"/>
+<entry endPc="268438512" name="msg" stackId="1" startPc="268438441"/>
+<entry endPc="268438582" name="i" stackId="2" startPc="268438546"/>
+<entry endPc="268438583" name="status" stackId="1" startPc="268438512"/>
+<entry endPc="268438625" name="state" stackId="1" startPc="268438620"/>
+<entry endPc="268438630" name="state" stackId="1" startPc="268438625"/>
+<entry endPc="268438715" name="dc" stackId="1" startPc="268438702"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="103" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="190" parentId="globals" symbolId="PhoneCommunicator" type="class"/>
+<dataEntry offset="468" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="547" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="586" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="625" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="672" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="703" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="742" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="773" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="852" parentId="globals" symbolId="PhoneActivityApp" type="class"/>
+<dataEntry offset="923" parentId="globals" symbolId="StartStopMenu" type="class"/>
+<dataEntry offset="1017" parentId="globals" symbolId="InputHandler" type="class"/>
+<dataEntry offset="1072" parentId="globals" symbolId="PhoneActivityView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="PhoneActivityView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="PhoneActivityView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="PhoneActivityView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PhoneActivityView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="PhoneActivityView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNewMessage" parent="PhoneActivityView">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNewGPSStatus" parent="PhoneActivityView">
+<param id="status"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="InputHandler">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKey" parent="InputHandler">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StartStopMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="StartStopMenu">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setupMenu" parent="StartStopMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PhoneCommunicator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInstance" parent="PhoneCommunicator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPosition" parent="PhoneCommunicator">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPhoneMessage" parent="PhoneCommunicator">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendLocationUpdate" parent="PhoneCommunicator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sendToPhone" parent="PhoneCommunicator">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="start" parent="PhoneCommunicator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="pauze" parent="PhoneCommunicator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="resume" parent="PhoneCommunicator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="stop" parent="PhoneCommunicator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="remove" parent="PhoneCommunicator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onError" parent="PhoneCommunicator">
+<documentation><![CDATA[<div class="description"> Callback when a communications operation error occurs.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onComplete" parent="PhoneCommunicator">
+<documentation><![CDATA[<div class="description"> Callback when a communications operation completes.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="notifyMessage" parent="PhoneCommunicator">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="notifyNewGPSStatus" parent="PhoneCommunicator">
+<param id="status"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getState" parent="PhoneCommunicator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PhoneActivityApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="PhoneActivityApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="PhoneActivityApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="PhoneActivityApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
